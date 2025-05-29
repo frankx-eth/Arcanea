@@ -9,12 +9,15 @@
 
 ## 🌟 Vision
 
-Arcanea is a myth-tech ecosystem that combines AI, storytelling, and personal development. It consists of:
+Arcanea is a myth-tech ecosystem that combines AI, storytelling, and personal development.
+It currently provides a minimal web portal and a small OpenRouter wrapper package.
+Many features referenced in early plans are still under development.
 
-- **Web Portal**: Interactive platform to explore the Arcanean Thread Matrix
-- **Mobile App (planned)**: Native experience for engaging with Thread Guardians
+**Components**
+- **Web Portal**: Next.js application for exploring basic concepts
 - **API Layer**: Powered by Claude AI through OpenRouter
-- **Core Library**: Shared TypeScript/JavaScript modules
+- **Mobile App**: _planned_
+- **Shared UI/Types packages**: _planned_
 
 ## 🚀 Quick Start
 
@@ -66,14 +69,12 @@ arcanea/
 │   └── openrouter-wrapper/  # TypeScript client for OpenRouter API
 ```
 
-## 🧩 Key Features
+## 🧩 Planned Features
 ### Web Portal
 - Interactive Thread Matrix visualization
-- Responsive design with dark/light mode
 - Real-time chat with AI Thread Guardians
 - User authentication and profiles
-### Core Features
-- Type-safe API client
+### Core
 - Shared UI component library
 - Theming system
 - Internationalization (i18n) support
@@ -111,6 +112,12 @@ This project uses:
 - [Prettier](https://prettier.io/) for code formatting
 - [ESLint](https://eslint.org/) for code quality
 - [TypeScript](https://www.typescriptlang.org/) for type safety
+
+## 📂 Arcanea Context
+
+The repository includes an `arcanea-context` file containing lore and design
+principles for the project. Contributors should review it to understand the
+mythology and terminology used across Arcanea.
 
 ## 🤝 Contributing
 
