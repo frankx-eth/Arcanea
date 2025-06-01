@@ -14,6 +14,7 @@ It currently provides a minimal web portal and a small OpenRouter wrapper packag
 Many features referenced in early plans are still under development.
 
 **Components**
+- **Arcanean Prompt System**: Prompt Libraries to help you go from idea to crafting and manifesting Arcanean worlds. 
 - **Web Portal**: Next.js application for exploring basic concepts
 - **API Layer**: Powered by Claude AI through OpenRouter
 - **Mobile App**: _planned_
