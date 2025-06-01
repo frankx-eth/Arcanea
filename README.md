@@ -1,4 +1,4 @@
-# 🌀 Arcanea - Myth-Tech Ecosystem
+# 🌟 Arcanea - Starlight Intelligence Ecosystem
 
 > **A revolutionary platform blending AI, storytelling, and personal development through interactive mythic experiences.**
 
